@@ -1,3 +1,4 @@
+#Marlin Firmware for KS-i3 Printer - A cheap chinese clone of Prusa i3
 # Marlin 3D Printer Firmware
 
 <img align="top" width=175 src="buildroot/share/pixmaps/logo/marlin-250.png" />
